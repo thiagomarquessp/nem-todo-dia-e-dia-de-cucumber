@@ -88,7 +88,7 @@ describe 'Adesão ao novo plano de compras' do
   end
 end
 ```
-Definir os testes dessa maneira eu continuo de certa forma tendo controle do que é automatizado, e por ser uma pessoa mais técnica, tenho controle exato dos steps que são implementados, controle das regras de negócio tanto quanto eu tinha quando eu escrevia em cucumber, agora com a diferença que meu testes corre um pouco mais rápido, não "perco" tempo gerando algo sem valor para o time/empresa.
+Definir os testes dessa maneira eu continuo de certa forma tendo controle do que é automatizado, e por ser uma pessoa mais técnica, tenho controle exato dos steps que são implementados, controle das regras de negócio tanto quanto eu tinha quando eu escrevia em cucumber, agora com a diferença que meu testes correm um pouco mais rápido, não "perco" tempo gerando algo sem valor para o time/empresa.
 
 O meu ecossistema continua sendo o mesmo, usando capybara como framework, usando faker, usando page objects, page step objetcs, usando airborne ou httparty e apenas o cucumber eu deixei de lado nessa minha aventura atual.
 
